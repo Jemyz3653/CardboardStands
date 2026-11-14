@@ -1,0 +1,21 @@
+{
+  "block.cardboardstands.stand": "Картонка",
+  "cardboardstands.editor": "Картонка",
+  "cardboardstands.angle": "Угол (°)",
+  "cardboardstands.apply_angle": "Применить угол (°)",
+  "cardboardstands.bad_angle": "Введи угол от 0 до 360°, например 22,5",
+  "cardboardstands.drop": "Перетащи сюда PNG",
+  "cardboardstands.limit": "До 8192 пикселей на сторону и 64 МиБ",
+  "cardboardstands.path": "Или вставь путь к PNG",
+  "cardboardstands.load": "Загрузить PNG",
+  "cardboardstands.clear": "Убрать картинку",
+  "cardboardstands.one_png": "Выбери одну PNG-картинку",
+  "cardboardstands.uploading": "Загрузка в мир…",
+  "cardboardstands.progress": "Загрузка в мир… %s%%",
+  "cardboardstands.saved": "Картинка сохранена",
+  "cardboardstands.cleared": "Картинка удалена",
+  "cardboardstands.denied": "Картонку может редактировать владелец или оператор",
+  "cardboardstands.bad_png": "Выбери PNG подходящего размера",
+  "cardboardstands.busy": "Картинка уже загружается",
+  "cardboardstands.io_error": "Не удалось завершить загрузку картинки"
+}

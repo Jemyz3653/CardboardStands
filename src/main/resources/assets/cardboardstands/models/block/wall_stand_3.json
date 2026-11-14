@@ -1,0 +1,105 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "cardboardstands:block/cardboard",
+    "cardboard": "cardboardstands:block/cardboard",
+    "edge": "cardboardstands:block/edge",
+    "paper": "cardboardstands:block/paper"
+  },
+  "elements": [
+    {
+      "from": [
+        2,
+        2,
+        14.45
+      ],
+      "to": [
+        14,
+        14,
+        16
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          15.5
+        ],
+        "axis": "z",
+        "angle": 270
+      },
+      "faces": {
+        "down": {
+          "texture": "#edge"
+        },
+        "up": {
+          "texture": "#edge"
+        },
+        "north": {
+          "texture": "#cardboard",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#edge"
+        },
+        "west": {
+          "texture": "#edge"
+        },
+        "east": {
+          "texture": "#edge"
+        }
+      }
+    },
+    {
+      "from": [
+        2.65,
+        2.65,
+        14.4
+      ],
+      "to": [
+        13.35,
+        13.35,
+        14.45
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          15.5
+        ],
+        "axis": "z",
+        "angle": 270
+      },
+      "faces": {
+        "down": {
+          "texture": "#paper"
+        },
+        "up": {
+          "texture": "#paper"
+        },
+        "north": {
+          "texture": "#paper",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#paper"
+        },
+        "west": {
+          "texture": "#paper"
+        },
+        "east": {
+          "texture": "#paper"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "cardboardstands-test",
+  "version": "1.0.0",
+  "entrypoints": {
+    "fabric-gametest": ["studio.detemkur.cardboardstands.StandGameTest"],
+    "fabric-client-gametest": ["studio.detemkur.cardboardstands.StandClientTest"]
+  }
+}

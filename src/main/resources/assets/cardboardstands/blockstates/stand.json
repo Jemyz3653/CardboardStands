@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "facing=north,wall=false": {
+      "model": "cardboardstands:block/stand",
+      "y": 0
+    },
+    "facing=north,wall=true,turn=0": {
+      "model": "cardboardstands:block/wall_stand_0",
+      "y": 0
+    },
+    "facing=north,wall=true,turn=1": {
+      "model": "cardboardstands:block/wall_stand_1",
+      "y": 0
+    },
+    "facing=north,wall=true,turn=2": {
+      "model": "cardboardstands:block/wall_stand_2",
+      "y": 0
+    },
+    "facing=north,wall=true,turn=3": {
+      "model": "cardboardstands:block/wall_stand_3",
+      "y": 0
+    },
+    "facing=east,wall=false": {
+      "model": "cardboardstands:block/stand",
+      "y": 90
+    },
+    "facing=east,wall=true,turn=0": {
+      "model": "cardboardstands:block/wall_stand_0",
+      "y": 90
+    },
+    "facing=east,wall=true,turn=1": {
+      "model": "cardboardstands:block/wall_stand_1",
+      "y": 90
+    },
+    "facing=east,wall=true,turn=2": {
+      "model": "cardboardstands:block/wall_stand_2",
+      "y": 90
+    },
+    "facing=east,wall=true,turn=3": {
+      "model": "cardboardstands:block/wall_stand_3",
+      "y": 90
+    },
+    "facing=south,wall=false": {
+      "model": "cardboardstands:block/stand",
+      "y": 180
+    },
+    "facing=south,wall=true,turn=0": {
+      "model": "cardboardstands:block/wall_stand_0",
+      "y": 180
+    },
+    "facing=south,wall=true,turn=1": {
+      "model": "cardboardstands:block/wall_stand_1",
+      "y": 180
+    },
+    "facing=south,wall=true,turn=2": {
+      "model": "cardboardstands:block/wall_stand_2",
+      "y": 180
+    },
+    "facing=south,wall=true,turn=3": {
+      "model": "cardboardstands:block/wall_stand_3",
+      "y": 180
+    },
+    "facing=west,wall=false": {
+      "model": "cardboardstands:block/stand",
+      "y": 270
+    },
+    "facing=west,wall=true,turn=0": {
+      "model": "cardboardstands:block/wall_stand_0",
+      "y": 270
+    },
+    "facing=west,wall=true,turn=1": {
+      "model": "cardboardstands:block/wall_stand_1",
+      "y": 270
+    },
+    "facing=west,wall=true,turn=2": {
+      "model": "cardboardstands:block/wall_stand_2",
+      "y": 270
+    },
+    "facing=west,wall=true,turn=3": {
+      "model": "cardboardstands:block/wall_stand_3",
+      "y": 270
+    }
+  }
+}

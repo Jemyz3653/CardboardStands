@@ -1,0 +1,21 @@
+{
+  "block.cardboardstands.stand": "Cardboard Stand",
+  "cardboardstands.editor": "Cardboard Stand",
+  "cardboardstands.angle": "Angle (°)",
+  "cardboardstands.apply_angle": "Apply angle (°)",
+  "cardboardstands.bad_angle": "Enter 0 to 360°, e.g. 22.5",
+  "cardboardstands.drop": "Drop a PNG here",
+  "cardboardstands.limit": "Up to 8192 px per side and 64 MiB",
+  "cardboardstands.path": "Or paste the path to a PNG",
+  "cardboardstands.load": "Import PNG",
+  "cardboardstands.clear": "Remove image",
+  "cardboardstands.one_png": "Select one PNG at a time",
+  "cardboardstands.uploading": "Sending to the world…",
+  "cardboardstands.progress": "Sending to the world… %s%%",
+  "cardboardstands.saved": "Image saved",
+  "cardboardstands.cleared": "Image removed",
+  "cardboardstands.denied": "Only the owner or an operator can edit this stand",
+  "cardboardstands.bad_png": "Choose a valid PNG within the size limits",
+  "cardboardstands.busy": "An image transfer is already running",
+  "cardboardstands.io_error": "Couldn't complete the image transfer"
+}
